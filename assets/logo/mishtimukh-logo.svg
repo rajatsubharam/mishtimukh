@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Mishtimukh emblem: a bowl of rosogolla between a fork and a spoon">
+  <circle cx="32" cy="32" r="31" fill="#1f3d2f"/>
+  <circle cx="32" cy="32" r="27.6" fill="none" stroke="#f7f2e8" stroke-width="1" stroke-dasharray="2.2 2.4" opacity=".55"/>
+  <g fill="none" stroke="#f7f2e8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M12.4 17v7.2M15 17v7.2M17.6 17v7.2" stroke-width="1.6"/>
+    <path d="M12.4 23.8c0 2.4 1.2 3.4 2.6 3.4s2.6-1 2.6-3.4" stroke-width="1.6"/>
+    <path d="M15 27.2v19.3" stroke-width="2.4"/>
+    <path d="M49 26.8v19.7" stroke-width="2.4"/>
+    <path d="M29.2 18.4c-1.5-1.4-1.5-2.6 0-3.8s1.5-2.4 0-3.6M34.8 18.4c-1.5-1.4-1.5-2.6 0-3.8s1.5-2.4 0-3.6" stroke-width="1.4"/>
+  </g>
+  <path d="M49 16.8c2 0 3.4 2.3 3.4 5s-1.5 4.9-3.4 4.9-3.4-2.2-3.4-4.9 1.4-5 3.4-5z" fill="#f7f2e8"/>
+  <g fill="#fffdf7" stroke="#1f3d2f" stroke-width="1.4">
+    <circle cx="32" cy="26.4" r="5.2"/>
+    <circle cx="26.6" cy="33.6" r="5.2"/>
+    <circle cx="37.4" cy="33.6" r="5.2"/>
+  </g>
+  <g fill="none" stroke="#1f3d2f" stroke-width=".85" stroke-linecap="round" opacity=".8">
+    <path d="M29.8 24.9c.6-1 1.4-1.5 2.4-1.5M24.4 32.1c.6-1 1.4-1.5 2.4-1.5M35.2 32.1c.6-1 1.4-1.5 2.4-1.5"/>
+  </g>
+  <path d="M19.2 36.6h25.6c0 6.4-5.7 10.8-12.8 10.8s-12.8-4.4-12.8-10.8z" fill="#f7f2e8" stroke="#1f3d2f" stroke-width="1"/>
+  <path d="M22.6 40.4h18.8" stroke="#1f3d2f" stroke-width=".9" stroke-linecap="round" opacity=".55"/>
+  <rect x="27" y="47.2" width="10" height="2.6" rx="1.2" fill="#f7f2e8"/>
+</svg>
